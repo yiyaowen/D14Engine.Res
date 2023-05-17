@@ -1,10 +1,19 @@
 {
     "large_file": [
+        "Res/D14Logo.png",
         "Res/D14Logo.psd",
+        "Res/Docs/logo.png",
+        "Res/Docs/logo.psd",
         "Res/Docs/D14UIKit/dark.png",
         "Res/Docs/D14UIKit/light.png",
         "Res/Docs/D14UIKit/overview.png",
         "Res/Docs/D14UIKit/overview.psd",
+        "Res/Engine/logo.png",
+        "Res/Engine/logo.psd",
+        "Res/Games/logo.png",
+        "Res/Games/logo.psd",
+        "Res/UIKit/logo.png",
+        "Res/UIKit/logo.psd",
         "Res/UIKit/Cursors/WinConcept.psd",
         "Res/UIKit/WidgetGallery/Widgets.psd",
         "Res/UIKit/WidgetGallery/Widgets0.psd"

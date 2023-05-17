@@ -3,6 +3,8 @@
         "Docs": {
             "D14UIKit": {}
         },
+        "Engine": {},
+        "Games": {},
         "UIKit": {
             "Cursors": {},
             "WidgetGallery": {}
