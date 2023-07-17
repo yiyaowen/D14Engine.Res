@@ -1,7 +1,9 @@
 {
     "Res": {
         "Docs": {
-            "D14UIKit": {}
+            "D14UIKit": {
+                "tutorials": {}
+            }
         },
         "Engine": {},
         "Games": {},
